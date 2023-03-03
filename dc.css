@@ -1,0 +1,92 @@
+body {
+  background-image: url("ff.jpg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 650px;
+  align-items: center;
+}
+
+/* .total{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     align-items: flex-end; 
+}  */
+
+/* .clock{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+} */
+
+.bigtime {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.time {
+  /* border: 2px solid rgb(184, 85, 105); */
+  height: 140px;
+  width: 150px;
+}
+
+/* #time4{
+    border-style: none;
+    
+} */
+
+.text {
+  background-color: rgb(203, 183, 214);
+  font-size: 40px;
+  /* margin: auto; */
+  height: 70%;
+  /* width: 100%; */
+  text-align: center;
+}
+
+/* #textl{
+    background-color: transparent;
+    height: 40%;
+} */
+
+.in,
+.in1 {
+  display: flex;
+  justify-content: center;
+  height: 120px;
+  align-items: center;
+}
+
+.in1 {
+  height: 50px;
+}
+
+
+footer {
+  background-color: rgb(146, 103, 171);
+  height: 30%;
+  text-align: center;
+}
+
+/* #fl{
+    height: 60%;
+} */
+
+#text1{
+    height: 100%;
+    background-color: rgb(174, 121, 180);
+}
+#in2{
+    height: 150px;
+}
+
+.back{
+    height: 60px;
+    font-size: 40px;
+    color: rgb(105, 13, 105);
+}
